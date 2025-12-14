@@ -18,8 +18,8 @@ The model is trained on the **UCI Adult Census Income Dataset** and deployed usi
 
 ## 🚀 Live Demo
 
-👉 **Try the App Here:**  
-**https://riya-marjum-moneylens-income-prediction-app-d49xby.streamlit.app/**
+👉 **[Try the App Here 🚀](https://riya-marjum-moneylens-income-prediction-app-d49xby.streamlit.app/)**
+
 
 ---
 
